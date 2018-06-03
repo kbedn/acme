@@ -27,6 +27,7 @@
         "hwi/oauth-bundle": "^0.6.2",
         "portphp/csv": "^1.1",
         "portphp/excel": "^1.1",
+        "sylius/grid-bundle": "^1.1",
         "sylius/sylius": "1.1.*",
         "sylius/theme-bundle": "^1.1"
     },
